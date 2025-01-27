@@ -221,11 +221,11 @@
           "dependencies": [
             {
               "name": "testing-customer-care-gen-ai-app-config-da",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "banking-ce"
               ],
-              "id": "bdb533aa-fe34-4f3b-bf35-0007fee74221",
+              "id": "6a077903-b134-455b-87e0-c9ede3ba6d5c",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -252,12 +252,12 @@
             },
             {
               "name": "Testing_Retrieval_Augmented_Generation_Pattern_dev",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "basic",
                 "standard"
               ],
-              "id": "8e851423-4cfc-40e7-a008-fb449d953cb9",
+              "id": "94b4487d-94db-41e4-beba-3faa76b50b95",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -279,11 +279,11 @@
             },
             {
               "name": "testing-deploy-arch-ibm-scc",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "instances"
               ],
-              "id": "b773b1d4-69bb-48db-a657-2307015eb9c1",
+              "id": "7f154b33-78d1-4789-b440-e32f90148a1f",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -305,7 +305,7 @@
             },
             {
               "name": "deploy-arch-ibm-watsonx-assistant",
-              "id": "f0eab251-febe-4ae4-99ba-04d698fb6d20",
+              "id": "3eb5469b-df27-43e4-8d97-da49fe0107ae",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -313,7 +313,7 @@
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -331,12 +331,12 @@
             },
             {
               "name": "deploy-arch-ibm-watson-discovery",
-              "id": "0f616276-a8a4-4399-bcbf-d3129f30295e",
+              "id": "abc0d7ca-bcb4-4cf2-a5bf-b9608d49cf83",
               "version": ">=v1.1.1",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "ignore_auto_referencing": [
@@ -357,7 +357,7 @@
             },
             {
               "name": "deploy-arch-ibm-watsonx-ai",
-              "id": "85b7c3d8-c947-408c-896c-52b375ceb1c0",
+              "id": "a780ed58-0252-4cfe-aeb7-005cdd460770",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -365,7 +365,7 @@
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -668,11 +668,11 @@
           "dependencies": [
             {
               "name": "testing-customer-care-gen-ai-app-config-da",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "banking-roks"
               ],
-              "id": "bdb533aa-fe34-4f3b-bf35-0007fee74221",
+              "id": "6a077903-b134-455b-87e0-c9ede3ba6d5c",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -693,12 +693,12 @@
             },
             {
               "name": "Testing_Retrieval_Augmented_Generation_Pattern_dev",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "basic",
                 "standard"
               ],
-              "id": "8e851423-4cfc-40e7-a008-fb449d953cb9",
+              "id": "94b4487d-94db-41e4-beba-3faa76b50b95",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -719,11 +719,11 @@
             },
             {
               "name": "testing-deploy-arch-ibm-scc",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "flavors": [
                 "instances"
               ],
-              "id": "b773b1d4-69bb-48db-a657-2307015eb9c1",
+              "id": "7f154b33-78d1-4789-b440-e32f90148a1f",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -744,7 +744,7 @@
             },
             {
               "name": "deploy-arch-ibm-watsonx-assistant",
-              "id": "f0eab251-febe-4ae4-99ba-04d698fb6d20",
+              "id": "3eb5469b-df27-43e4-8d97-da49fe0107ae",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -752,7 +752,7 @@
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -770,7 +770,7 @@
             },
             {
               "name": "deploy-arch-ibm-watson-discovery",
-              "id": "0f616276-a8a4-4399-bcbf-d3129f30295e",
+              "id": "abc0d7ca-bcb4-4cf2-a5bf-b9608d49cf83",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -778,7 +778,7 @@
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -796,7 +796,7 @@
             },
             {
               "name": "deploy-arch-ibm-watsonx-ai",
-              "id": "85b7c3d8-c947-408c-896c-52b375ceb1c0",
+              "id": "a780ed58-0252-4cfe-aeb7-005cdd460770",
               "ignore_auto_referencing": [
                 "*"
               ],
@@ -804,7 +804,7 @@
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7df1e4ca-d54c-4fd0-82ce-3d13247308cd",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
